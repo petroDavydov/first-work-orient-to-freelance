@@ -7,10 +7,10 @@ $(document).ready(function () {
         percent: 0,
         // counter_clockwise: true,
         starting_position: 25
-    }).circularProgress('animate', 100, 2000);
+    }).circularProgress('animate', 100, 1000);
 });
 
 $(window).on('load', function () {
    var $preloader = $('#preloader');
-   $preloader.delay(1800).fadeOut('slow');
+   $preloader.delay(500).fadeOut('slow');
 });
