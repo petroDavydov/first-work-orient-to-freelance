@@ -1,0 +1,23 @@
+{
+  "name": "first-work-orient-to-freelance",
+  "version": "1.0.0",
+  "description": "-eng-\r This work was the first major site layout work. The first page is an indicative. Not all pages are working.\r Bootstrap, font-awasom, jquery technologies were used as a library as a ready-made solution for connection.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petroDavydov/first-work-orient-to-freelance.git"
+  },
+  "keywords": [],
+  "author": "Petro Davydov <petrodavydov@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petroDavydov/first-work-orient-to-freelance/issues"
+  },
+  "homepage": "https://github.com/petroDavydov/first-work-orient-to-freelance#readme",
+  "dependencies": {
+    "netlify-cli": "^8.15.3"
+  }
+}
